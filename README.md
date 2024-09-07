@@ -1,4 +1,4 @@
-## ** Machuquei: Seu Guia Rápido para Primeiros Socorros Digitais**
+## Machuquei: Seu Guia Rápido para Primeiros Socorros Digitais
 
 **O que é esse negócio?**
 
