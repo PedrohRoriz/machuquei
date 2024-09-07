@@ -1,6 +1,4 @@
-## **Que tal um README mais divertido para o seu projeto?**
-
-**## Machuquei: Seu Guia Rápido para Primeiros Socorros Digitais**
+## **## Machuquei: Seu Guia Rápido para Primeiros Socorros Digitais**
 
 **O que é esse negócio?**
 
